@@ -11,7 +11,7 @@ A simple and reliable Python library for converting numbers between different ba
 ## Installation
 
 ```bash
-pip install .
+pip install base-converter-pedromagno
 ```
 
 ## Usage
